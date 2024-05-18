@@ -28,7 +28,7 @@ Testing the hardware
 Documentation and discussion
 If possible, please bring your laptop.
 
-About the artist:
+**About the artist:**
 Silvia Binda Heiserova is a visual and multimedia artist, researcher and creative coder. Her artistic practice critically explores power dynamics in the digital era through a gender perspective, aiming to subvert stereotypical and biased gender representations in social and virtual spaces. Silvia earned her Doctoral Degree in Fine Arts: Practice and Research from the Polytechnic University of Valencia, where she was part of the Art and Gender research group. She holds an MFA title in Visual and Multimedia Arts and an MFA in Artistic Practice from the same institution. Silvia is the founder of offDAC, a multidisciplinary platform for exploring the intersection of feminism, art and technology.
 
 Artist web: https://www.silviabinda.com
