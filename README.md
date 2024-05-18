@@ -7,6 +7,8 @@
 
 In this repository, you can find all the contents and information used during the Open Hardware Workshop.
 
+______
+
 **About**
 
 Join the Open Hardware workshop and learn to make your own functional technological objects from scratch. You will learn to use, solder, wire, assemble and code for open-source 3D prints of various colours and shapes, microcontrollers, sensors, displays, modules, and other components.
