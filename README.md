@@ -1,5 +1,6 @@
-Open Hardware Workshop
-- given by Silvia Binda Heiserova, 
+**Open Hardware Workshop**
+
+- by Silvia Binda Heiserova, 
 - organised by Baltan Laboratiories
 - date: Saturday 18th of May, 2024
 - location: Eindhoven, The Netherlands
