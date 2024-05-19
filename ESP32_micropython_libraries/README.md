@@ -1,4 +1,5 @@
 **Instructions:**
+
 For the LCD I2C display to work properly, copy these two libraries and upload them to your ESP32 microcontroller (for example using the Thonny IDE).
 
 ! Do not forget to save them under the exact names "i2c_lcd.py" and "lcd_api.py" !
