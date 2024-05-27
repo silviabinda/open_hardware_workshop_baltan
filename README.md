@@ -1,4 +1,4 @@
-**Open Hardware Workshop**
+# Open Hardware Workshop
 
 - by Silvia Binda Heiserova
 - organised by Baltan Laboratiories
