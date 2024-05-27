@@ -1,4 +1,5 @@
 **Open Hardware Workshop**
+![Baltan Open Hardware workshop LR81](https://github.com/silviabinda/open_hardware_workshop_baltan/assets/79167212/e597a57c-338a-4a62-851c-b7f099556d21)
 
 - by Silvia Binda Heiserova
 - organised by Baltan Laboratiories
