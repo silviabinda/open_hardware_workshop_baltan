@@ -1,6 +1,5 @@
 **Open Hardware Workshop**
 
-
 - by Silvia Binda Heiserova
 - organised by Baltan Laboratiories
 - date: Saturday 18th of May, 2024
@@ -12,7 +11,7 @@ In this repository, you can find all the contents and information used during th
 Photo by: Barbara Medo
 ______
 
-**About**
+**About the workshop**
 
 Join the Open Hardware workshop and learn to make your own functional technological objects from scratch. You will learn to use, solder, wire, assemble and code for open-source 3D prints of various colours and shapes, microcontrollers, sensors, displays, modules, and other components.
 
